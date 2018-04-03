@@ -1,14 +1,14 @@
 ---
 layout: blog
-title: 关于LiberXue
-description: "关于LiberXue博客角落自述"
-data: 2017-08-05 09:19:11
+title: 关于LuYao
+description: "关于Luyao博客角落自述"
+data: 2017-04-05 09:19:11
 tags: 
-- LiberXue
+- LuYao
 - 简述
 - 关于
-- Liber
-- Xue
+- Lu
+- Yao
 - 坐井观天阔
 redirect_from:
   - /about/
@@ -16,7 +16,7 @@ redirect_from:
 
 # Hello World
  
-又换了个博客主题 这次终于看见不那么难受了
+声明本博客借助于 liberxue.github.io 开源博客，在此感谢作者为我开辟自己内心中的博客世界 
  
 博客使用Jekyll搭建托管在GitHub目前使用主题后期[已开源](https://github.com/Liberxue/liberxue.github.io)
  
@@ -25,62 +25,38 @@ redirect_from:
 
 博客图片使用七牛云加速
 
-##  LiberXue  曾用名013
- 
-### 曾用名013简述
- 
- 
-之前五年间一直使用013这个网名好多朋友问什么是？
 
-013不就是十三吗 装呗
  
-其实很简单在86版西游记中十三集开始悟空取经上路
- 
-还有一个原因2009年9月13日我在北京只剩下6块钱活三个月时间...
- 
-### LiberXue简述
- 
-#### Liber注释
- 
-同我名字谐音 ``Liber`` 英文翻译过来：自由
- 
-#### Xue注释
- 
-`Xue` 就是拼音 ...我名字最后一个字(⊙ω⊙)
+### LuYao简述
 
 ## 想做一名全栈开发
 
 这是一个梦... 当然是梦肯定要成为架构师
 
-### 使用语言
-
-``c# ``|``lua``| ``c++``|
+### 语言和操作系统
  
- ``swift`` |``JavaScript`` |``PHP``|
-  
-  ``Python`` |``Java`` |``GO``|
-  ``perl``|``shell``|
- 
+ ``shell`` |``JavaScript`` |``PHP``|
+ ``Linux`` |
 
- 目前主攻``GO``
+ 目前主攻``php`` | ``Linux``
   
 ### 个人爱好
 
- 热衷于``路由器``研究和``网络安全``...
+ 热衷于``服务器架构``移动开发``数据库性能调优``微信生态圈``...
  
 ### 业余时间
 
-- 非越狱环境下iOS应用逆向研究
+- 架构师之路
 - web安全
-- freebsd
-- ros路由器
-- 防火墙
+- 数据库集群
+- 搜索服务器
+- 小程序
 
 ### 个人习惯
  
-不喜欢被打扰，也不习惯打扰别人
+     偶尔喝喝小酒，出去走走开阔视野
  
-「所以我不用评论」，社交软件基本很少用，如果您对我的blog有疑问，请发送[Email](mailto:liberxue@gmail.com) 联系我。
+                  如果感觉有什么疑问，请发送[Email](zml332@163.com) 联系我。
  
 这个世界太热闹了，也言语太“自由” 需要`面壁者`也需要`独立思考`和`独立学习生活者`和`独立解决问题者`
  
@@ -94,7 +70,7 @@ redirect_from:
  
 ### 自己的开发经历
 
-#### 2010-2014
+#### 2015-2016
 曾在X国企电信开发400电话呼叫管理系统
 * 使用技术：
 - c# 
@@ -189,6 +165,4 @@ ID|项 目 名 称| 开 发 语 言| 功 能 简 述| 框架| 是否上线|
 
 * [提交Issues](https://github.com/Liberxue/liberxue.github.io/issues)
  
-* [发邮件](mailto:liberxue@gmail.com)
- 
-* [Twitter](https://twitter.com/liberxue).
+* [发邮件](zml332@163.com)
