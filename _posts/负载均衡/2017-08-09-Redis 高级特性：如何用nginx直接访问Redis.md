@@ -1,8 +1,8 @@
 ---
 layout: blog
 banana: true
-category: Redis 高级特性：如何用nginx直接访问Redis？Lua （openresty）
-title:  redis
+category: 负载均衡
+title:  Redis 高级特性：如何用nginx直接访问Redis？Lua （openresty）
 date:   2017-08-09 01:06:42
 background-image: https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1118154010,206880052&fm=27&gp=0.jpg
 tags:
