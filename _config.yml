@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LuYao|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LuYao 谈谈人生、喝喝小茶、敲敲代码。"
+title:            "Meile|GitHub blog"
+description:      "Full Stack独立开发者|欢迎来到 Meile 谈谈人生、喝喝小茶、敲敲代码。"
 url:              https://Yii18.github.io # 域名
-signoff:          "LuYao" # Your name
+signoff:          "Meile" # Your name
 facebook_appid:   #liberxue
 google_analytics: UA-101222464-1
 share:            true 
