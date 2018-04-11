@@ -9,7 +9,8 @@ tags:
 - Redis
 - 架构之路
 - Nosql
-- 负载均衡	
+- 负载均衡
+- road	
 ---
 
 1、nginx配置vhost虚拟主机
