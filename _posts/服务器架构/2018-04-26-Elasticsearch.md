@@ -15,7 +15,7 @@ tags:
 laravel-china.org
 Elastcisearch 的配置与使用，为了全文搜索 | Laravel China 社区
 PHPHub
-39-49 分钟
+39- 49 分钟
 
 file
 
