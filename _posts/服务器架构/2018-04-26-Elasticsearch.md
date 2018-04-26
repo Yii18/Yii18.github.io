@@ -2,7 +2,7 @@
 layout: blog
 banana: true
 category: 负载均衡
-title:  Nginx upstream 为php-fpm 实现负载均衡 使用实战
+title: elasticsearch安装 
 date:   2018-01-15 22:06:42
 background-image: https://lccdn.phphub.org/uploads/images/201804/19/10512/Ncx25uq2lR.png?imageView2/2/w/1240/h/0
 tags:
@@ -528,3 +528,5 @@ term,match,multi_match，range.prefix,wildcard,regexp.fuzzy,match_phrase,match_p
 原文地址：http://www.qiehe.net/posts/4/the-use-and-configuration-of-elastcisearch-for-full-text-search
 
 Good Good Study , Day Day Up!!
+
+
